@@ -1,3 +1,7 @@
+# Description
+A demo for learning @reduxjs/toolkit
+@reduxjs/toolkit学习demo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
